@@ -1,57 +1,37 @@
 ---
-title: Blog
-slug: /blog
-numOfPostsPerPage: 8
-enableSearch: true
-topSections:
-  - title:
-      text: ''
-      color: text-dark
-      type: TitleBlock
-    subtitle: 'India’s New Labour Codes:'
-    posts:
-      - content/pages/blog/New-Labour-Codes2025.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    variant: big-list
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-28
-          - pb-0
-          - pl-4
-          - pr-4
-        justifyContent: flex-start
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-styles:
-  title:
-    textAlign: center
+title: >-
+  A Vision for Fairness, Growth and Responsible Leadership “Through the Lens of
+  Ethical and Governance Stewardship”
+slug: New-Labour-Codes2025
+date: '2025-12-05'
+excerpt: |-
+  India’s four new Labour Codes on
+  Wages, Social Security, Occupational Safety & Health, and
+  Industrial Relations represent one of the most awaited and
+  transformative reforms in the country’s labor landscape. Replacing
+  29 aged laws with a coherent, modern, business-friendly framework,
+  the Codes aim to simplify compliance and strengthen worker protection
+  while enabling India’s journey toward a more formal, productive and
+  equitable economy.
+featuredImage:
+  url: /images/labour_codes_eng (2).png
+  altText: labour-codes-ministry-of-labour-and-employment
+  type: ImageBlock
+  styles:
+    self:
+      borderRadius: medium
+isFeatured: true
 seo:
-  metaTitle: Blog - Demo site
-  metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
-  socialImage: /images/img-placeholder.svg
+  metaTitle: labour codes
+  metaDescription: You can add the excerpt and main keywords of your blog post here.
   type: Seo
-type: PostFeedLayout
-bottomSections: []
-postFeed:
-  type: PagedPostsSection
-  title: null
-  subtitle: null
-  showThumbnail: true
-  showExcerpt: true
-  showDate: true
-  showAuthor: true
-  actions: []
-  elementId: null
-  variant: three-col-grid
-  colors: bg-light-fg-dark
-  hoverEffect: move-up
+colors: bg-light-fg-dark
+styles:
+  self:
+    flexDirection: row
+type: PostLayout
+author: content/data/person1.json
+isDraft: false
 ---
 India’s four new Labour Codes on
 Wages, Social Security, Occupational Safety & Health, and
@@ -74,26 +54,26 @@ Yet
 in online forums and professional networks, a disturbing
 counter-narrative is emerging: some HR practitioners are discussing
 “workarounds,” “loopholes,” or “creative interpretations”
-to reduce employer liability. 
+to reduce employer liability.
 
 This
 divergence between stated corporate values and actual behavior raises
 deeper questions about leadership, ethics and the true meaning of
 professionalism. The transition to the new labor regime also exposes
 an underlying structural gap within many organizations, the absence
-of a long-term workforce philosophy. 
+of a long-term workforce philosophy.
 
 For
 years, labour compliance in India businesses was treated as a
 reactive, file-driven activity handled by administrative teams rather
-than a forward-looking, risk-managed, strategically aligned domain. 
+than a forward-looking, risk-managed, strategically aligned domain.
 
 The
 new Codes require companies to articulate clear positions on wage
 structures, social security commitments, working-hour frameworks,
 contract workforce governance, and safety accountability. These are
 not merely statutory issues; they shape talent attractiveness,
-employer brand credibility, and operational resilience. 
+employer brand credibility, and operational resilience.
 
 A
 major misconception fueling resistance is the assumption that the
@@ -101,25 +81,7 @@ Labour Codes impose high-cost burdens. This is inaccurate for most
 organizations, the real requirement is structural transparency,
 ensuring that compensation is logically constructed, benefits are
 consistently applied, and workforce categories are accurately
-defined. These are hallmarks of mature organizations globally. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+defined. These are hallmarks of mature organizations globally.
 
 Avoidance
 by employers to adopt to New Labour Codes may save some effort in the
@@ -149,7 +111,6 @@ this transition requires courage and clarity from organizational
 leaders. It demands the willingness to let go of legacy structures
 that no longer reflect contemporary realities. It calls for boards
 and CXOs to treat labour governance as a pillar of strategic
-
 
 leadership rather than a checkbox on a compliance list. If
 approached with maturity, the new Labour Codes could become one of
@@ -182,12 +143,6 @@ Leaders should see the Labour Codes not as a compliance headache but
 as a Nation-Building
 Opportunity. With their
 perspective grounded in a few powerful principles:
-
-
-
-
-
-
 
 This
 Is a Test of Corporate Character, leaders
@@ -237,11 +192,6 @@ Professionals Must Look Within, the
 trend of hunting for loopholes raises uncomfortable but essential
 questions:
 
-
-	
-	
-	
-
 Ethical
 HR thinking urges a deeper internal audit, “not of cost, but of
 conscience”. The Human Resource Professional bodies have an
@@ -249,34 +199,11 @@ obligation to ensure that HR professionals set the right tone and are
 adequately equipped with knowledge and peer ethical pressure to
 provide Legally and ethically correct solutions.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 A
 Call to the Boardrooms of India, India
 stands at a defining economic moment. The Labour Codes offer a chance
 to modernize, harmonize and humanize the world of work. Boards and
 CEOs must choose their response carefully:
-
-
-	
-	
-	
 
 The
 answer will determine which companies simply *grow*
@@ -294,6 +221,3 @@ Codes are a reminder that profit, and principle need not be opposing
 forces. India now has the business supportive legal framework, what
 it needs is the inclusive mindset
 of our business leaders.
-
-
-
