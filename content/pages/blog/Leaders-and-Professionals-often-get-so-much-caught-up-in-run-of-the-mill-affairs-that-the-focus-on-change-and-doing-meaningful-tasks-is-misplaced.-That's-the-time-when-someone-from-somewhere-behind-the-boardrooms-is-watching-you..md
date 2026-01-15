@@ -6,18 +6,6 @@ author: content/data/person1.json
 excerpt: >-
   Leadership is expected to drive change, bring innovation, build passion and
   many more invisible value additions to the...
-featuredImage:
-  type: ImageBlock
-  url: /images/salkdjlkdsajljkdsa.png
-  altText: meaningful value additions
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
 bottomSections:
   - type: DividerSection
     title: Divider

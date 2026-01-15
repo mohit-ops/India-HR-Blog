@@ -7,18 +7,6 @@ excerpt: >-
   Today the need of the hour is the HR professionals with qualities to lead the
   executive leadership teams which are able to equally visualize the
   performances and behavior patterns.
-featuredImage:
-  type: ImageBlock
-  url: /images/leading-3580742_1280.jpg
-  altText: Thumbnail
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
 bottomSections:
   - type: DividerSection
     title: Divider

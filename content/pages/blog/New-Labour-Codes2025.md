@@ -13,13 +13,6 @@ excerpt: |-
   the Codes aim to simplify compliance and strengthen worker protection
   while enabling India’s journey toward a more formal, productive and
   equitable economy.
-featuredImage:
-  url: /images/labour_codes_eng (2).png
-  altText: labour-codes-ministry-of-labour-and-employment
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
 isFeatured: true
 seo:
   metaTitle: labour codes

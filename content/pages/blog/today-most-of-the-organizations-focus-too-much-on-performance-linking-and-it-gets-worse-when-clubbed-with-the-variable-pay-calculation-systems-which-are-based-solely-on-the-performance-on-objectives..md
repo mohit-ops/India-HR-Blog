@@ -9,18 +9,6 @@ excerpt: >-
   managers and the directors… and as usual at the backstage with HR fraternity
   discussing and debating on what is it, what it should be, and why it should
   be.
-featuredImage:
-  type: ImageBlock
-  url: /images/kpi-4266500_1280.jpg
-  altText: key performance indicators
-  elementId: ''
-  styles:
-    self:
-      padding:
-        - pt-0
-        - pl-0
-        - pb-0
-        - pr-0
 bottomSections:
   - type: DividerSection
     title: Divider
