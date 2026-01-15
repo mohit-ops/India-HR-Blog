@@ -206,9 +206,13 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
+      - content/pages/blog/New-Labour-Codes2025.md
+      - >-
+        content/pages/blog/Leaders-and-Professionals-often-get-so-much-caught-up-in-run-of-the-mill-affairs-that-the-focus-on-change-and-doing-meaningful-tasks-is-misplaced.-That's-the-time-when-someone-from-somewhere-behind-the-boardrooms-is-watching-you..md
+      - >-
+        content/pages/blog/More-and-more-organizations-today-are-adopting-themselves-into-a-matrix-structure-to-answer-the-need-of-agility-in-responding-to-customers-and-using-subject-matter-expertise..md
+      - >-
+        content/pages/blog/today-most-of-the-organizations-focus-too-much-on-performance-linking-and-it-gets-worse-when-clubbed-with-the-variable-pay-calculation-systems-which-are-based-solely-on-the-performance-on-objectives..md
     showThumbnail: true
     showDate: true
     showAuthor: true
