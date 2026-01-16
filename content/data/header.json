@@ -23,6 +23,17 @@
         },
         {
             "type": "Link",
+            "label": "Contact us",
+            "altText": "contact",
+            "url": "/contact-us",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
             "altText": "LinkedIn",
             "url": "https://linkedin.com/in/mohit-mathur-6972b05",
             "showIcon": true,

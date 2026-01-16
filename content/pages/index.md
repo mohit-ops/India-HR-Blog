@@ -138,7 +138,7 @@ sections:
       <mohit@india-hr.com>
 
 
-      [linkedin.com/in/mohit-mathur-6972b05](linkedin.com/in/mohit-mathur-6972b05)
+      [LinkedIN page](https://in.linkedin.com/in/mohit-mathur-6972b05)
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
@@ -173,11 +173,11 @@ sections:
   - posts:
       - content/pages/blog/New-Labour-Codes2025.md
       - >-
-        content/pages/blog/Leaders-and-Professionals-often-get-so-much-caught-up-in-run-of-the-mill-affairs-that-the-focus-on-change-and-doing-meaningful-tasks-is-misplaced.-That's-the-time-when-someone-from-somewhere-behind-the-boardrooms-is-watching-you..md
+        content/pages/blog/The-hidden-crisis-behind-india's-service-failures-a-culture-of-chronic-under-resourcing.md
       - >-
-        content/pages/blog/More-and-more-organizations-today-are-adopting-themselves-into-a-matrix-structure-to-answer-the-need-of-agility-in-responding-to-customers-and-using-subject-matter-expertise..md
-      - >-
-        content/pages/blog/today-most-of-the-organizations-focus-too-much-on-performance-linking-and-it-gets-worse-when-clubbed-with-the-variable-pay-calculation-systems-which-are-based-solely-on-the-performance-on-objectives..md
+        content/pages/blog/organizations-today-are-adopting-themselves-into-a-matrix-structure-to-answer-the-need-of-agility.md
+      - content/pages/blog/performance-enhancement-system.md
+      - content/pages/blog/the-individual-value-addition.md
     showThumbnail: true
     showDate: true
     showAuthor: true

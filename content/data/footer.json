@@ -4,18 +4,12 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "HR Consultancy and services\n",
+    "text": "HR Consultancy and services\n\nSite credits:Aarav IIITD Batch of 2026 and Aaryaman (St Francis School, Secondary 2025-26)\n",
     "socialLinks": [
         {
             "altText": "GitHub link",
-            "url": "https://github.com/netlify",
+            "url": "https://github.com/mohit-ops",
             "icon": "github",
-            "type": "Social"
-        },
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
             "type": "Social"
         },
         {
@@ -23,32 +17,9 @@
             "url": "https://in.linkedin.com/in/mohit-mathur-6972b05",
             "icon": "linkedin",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "\n\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
