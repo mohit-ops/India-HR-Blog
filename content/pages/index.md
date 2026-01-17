@@ -194,8 +194,8 @@ sections:
     type: FeaturedPostsSection
     hoverEffect: move-up
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Corporate Consulting Services
+  metaDescription: Corporate Corner official Website.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
