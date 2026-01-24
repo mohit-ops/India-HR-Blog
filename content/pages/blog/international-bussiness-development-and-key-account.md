@@ -41,7 +41,7 @@ bottomSections:
       self:
         justifyContent: center
 slug: international-bussiness-development-and-key-account
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
