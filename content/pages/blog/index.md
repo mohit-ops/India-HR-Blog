@@ -35,7 +35,6 @@ styles:
 seo:
   metaTitle: Blogs
   metaDescription: ''
-  socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
 bottomSections: []
