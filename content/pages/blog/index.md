@@ -5,11 +5,12 @@ numOfPostsPerPage: 8
 enableSearch: true
 topSections:
   - title:
-      text: ''
+      text: 'Featured Posts:'
       color: text-dark
       type: TitleBlock
-    subtitle: 'India’s New Labour Codes:'
+    subtitle: ''
     posts:
+      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
       - content/pages/blog/New-Labour-Codes2025.md
     showThumbnail: true
     showExcerpt: true
