@@ -40,8 +40,8 @@ bottomSections:
     styles:
       self:
         justifyContent: center
-slug: this-is-a-blog-post-with-related-posts
-isFeatured: false
+slug: international-bussiness-development-and-key-account
+isFeatured: true
 isDraft: false
 seo:
   type: Seo

@@ -10,7 +10,8 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
+      - >-
+        content/pages/blog/international-bussiness-development-and-key-account.md
       - content/pages/blog/New-Labour-Codes2025.md
     showThumbnail: true
     showExcerpt: true
