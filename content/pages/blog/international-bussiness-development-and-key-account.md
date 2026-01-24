@@ -45,8 +45,10 @@ isFeatured: true
 isDraft: false
 seo:
   type: Seo
-  metaTitle: lorem-ipsum
-  metaDescription: lorem-ipsum
+  metaTitle: Available to start
+  metaDescription: >-
+    International Business Development Leader with Global Experience, Key
+    account management , Product Sourcing , Exports Market , Export sales
   addTitleSuffix: false
   metaTags: []
 colors: bg-light-fg-dark
