@@ -10,8 +10,6 @@ topSections:
       type: TitleBlock
     subtitle: ''
     posts:
-      - >-
-        content/pages/blog/international-bussiness-development-and-key-account.md
       - content/pages/blog/New-Labour-Codes2025.md
     showThumbnail: true
     showExcerpt: true
@@ -293,6 +291,5 @@ Codes are a reminder that profit, and principle need not be opposing
 forces. India now has the business supportive legal framework, what
 it needs is the inclusive mindset
 of our business leaders.
-
 
 
