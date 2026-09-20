@@ -132,13 +132,7 @@ sections:
       Organizations
 
 
-      ##### +91 9818690991
-
-
-      <mohit@india-hr.com>
-
-
-      [LinkedIN page](https://in.linkedin.com/in/mohit-mathur-6972b05)
+      [consultant@india-hr.com](mailto:consultant@india-hr.com)
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
