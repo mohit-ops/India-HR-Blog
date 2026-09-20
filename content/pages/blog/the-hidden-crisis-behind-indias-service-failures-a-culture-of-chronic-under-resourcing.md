@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   The Hidden Crisis Behind India’s Service Failures: A Culture of Chronic Under
   Resourcing
-date: '2022-10-10'
+date: "2022-10-10"
 author: content/data/person1.json
 excerpt: >-
   India’s airlines may be making headlines, but the real turbulence is
@@ -235,6 +235,5 @@ Mathur is a senior HR Consultant with over two decades experience of
 helping organizations strengthen capability, governance, and
 workforce readiness. He writes on leadership, people strategy, and
 structural issues shaping India’s evolving economy.
-
 
 

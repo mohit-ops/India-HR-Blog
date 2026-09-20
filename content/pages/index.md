@@ -132,13 +132,7 @@ sections:
       Organizations
 
 
-      ##### +91 9818690991
-
-
-      <mohit@india-hr.com>
-
-
-      [LinkedIN page](https://in.linkedin.com/in/mohit-mathur-6972b05)
+      [consultant@india-hr.com](mailto:consultant@india-hr.com)
     actions: []
     media:
       altText: Unblock your team boost your time to production preview
@@ -171,11 +165,9 @@ sections:
           - pb-12
           - pr-12
   - posts:
-      - >-
-        content/pages/blog/international-bussiness-development-and-key-account.md
       - content/pages/blog/New-Labour-Codes2025.md
       - >-
-        content/pages/blog/The-hidden-crisis-behind-india's-service-failures-a-culture-of-chronic-under-resourcing.md
+        content/pages/blog/the-hidden-crisis-behind-indias-service-failures-a-culture-of-chronic-under-resourcing.md
       - >-
         content/pages/blog/organizations-today-are-adopting-themselves-into-a-matrix-structure-to-answer-the-need-of-agility.md
       - content/pages/blog/performance-enhancement-system.md
